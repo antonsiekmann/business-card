@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Anton Siekmann</title>
-        <link>http://example.org/</link>
+        <link>http://localhost:1313/business-card/</link>
         <description>Developer | AI Enthusiast | Businessinformatics @ TUM</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>anton@siekmann.eu (Anton Siekmann)</managingEditor>
-            <webMaster>anton@siekmann.eu (Anton Siekmann)</webMaster><lastBuildDate>Thu, 04 Sep 2025 00:00:00 &#43;0000</lastBuildDate>
-            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>191633124&#43;antonsiekmann@users.noreply.github.com (Anton Siekmann)</managingEditor>
+            <webMaster>191633124&#43;antonsiekmann@users.noreply.github.com (Anton Siekmann)</webMaster><lastBuildDate>Thu, 04 Sep 2025 00:00:00 &#43;0000</lastBuildDate>
+            <atom:link href="http://localhost:1313/business-card/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>

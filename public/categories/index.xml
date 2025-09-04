@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Category - Anton Siekmann</title>
-        <link>http://example.org/categories/</link>
+        <link>http://localhost:1313/business-card/categories/</link>
         <description>Categories - Category - Anton Siekmann</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>anton@siekmann.eu (Anton Siekmann)</managingEditor>
-            <webMaster>anton@siekmann.eu (Anton Siekmann)</webMaster><atom:link href="http://example.org/categories/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>191633124&#43;antonsiekmann@users.noreply.github.com (Anton Siekmann)</managingEditor>
+            <webMaster>191633124&#43;antonsiekmann@users.noreply.github.com (Anton Siekmann)</webMaster><atom:link href="http://localhost:1313/business-card/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>
