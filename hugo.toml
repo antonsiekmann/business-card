@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://antonsiekmann.github.io/business-card/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -87,7 +87,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # Author config
   [params.author]
     name = "Anton Siekmann"
-    email = "anton@siekmann.eu"
+    email = "191633124+antonsiekmann@users.noreply.github.com"
     link = ""
 
   # Header config
