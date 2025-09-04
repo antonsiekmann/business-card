@@ -1,5 +1,4 @@
 name: github pages
-baseURL: "https://anton-siekmann.github.io/"
 on:
   push:
     branches:
