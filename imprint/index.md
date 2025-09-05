@@ -7,11 +7,11 @@ Dieses Impressum erfüllt die Anforderungen nach § 5 TMG und dient der rechtlic
 
 ---
 
-subtitle: "Service Provider"
+## Service Provider
 
 **Anton Friedrich Wilhelm Siekmann**
-Musterstraße 12
-12345 Musterstadt
+Wormserstraße
+80797 München
 Deutschland
 
 ---
@@ -27,11 +27,13 @@ Deutschland
 
 Verantwortlich im Sinne von § 18 Abs. 2 MStV:
 **Anton Friedrich Wilhelm Siekmann**
-Adresse wie oben
+Wormserstraße
+80797 München
+Deutschland
 
 ---
 
-## Disclaimer – Haftung für Inhalte
+## Haftung für Inhalte
 
 Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.
 
@@ -42,7 +44,7 @@ Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach 
 
 ---
 
-## Disclaimer – Haftung für Links
+## Haftung für Links
 
 Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben.
 Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen.
@@ -55,7 +57,7 @@ Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend ent
 
 ---
 
-## Copyright / Urheberrecht
+## Urheberrecht
 
 Die durch den Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht.
 Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechts bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.
@@ -74,15 +76,6 @@ Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift
 Diese Daten werden ohne Deine ausdrückliche Zustimmung nicht an Dritte weitergegeben.
 Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann.
 Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
-
----
-
-## Streitbeilegung / EU-Verbraucherstreitbeilegung
-
-Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit:
-[https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr)
-
-Wir sind nicht verpflichtet und nicht bereit, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
 ---
 
