@@ -2,6 +2,9 @@
 title: "Curriculum Vitae"
 author: "Anton Friedrich Wilhelm Siekmann"
 date: 2025-09-04
+toc:
+  enable: true
+  auto: true
 ---
 
 # 👨‍🎓 Curriculum Vitae

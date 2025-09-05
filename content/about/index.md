@@ -1,6 +1,9 @@
 ---
 title: "About Me"
 date: 2025-09-04
+toc:
+  enable: true
+  auto: true
 ---
 
 # 👋 Willkommen

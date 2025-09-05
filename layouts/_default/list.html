@@ -1,0 +1,17 @@
+{{ define "main" }}
+<main class="main">
+  <div class="container">
+    <article class="page single">
+      <header class="page-header">
+        <h1 class="page-title">{{ .Title }}</h1>
+      </header>
+
+      {{ if .Params.toc.enable }}
+      <aside class="toc">{{ partial "toc.html" . }}</aside>
+      {{ end }}
+
+      <div class="page-content">{{ .Content }}</div>
+    </article>
+  </div>
+</main>
+{{ end }}

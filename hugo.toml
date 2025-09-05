@@ -61,11 +61,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     name = "Projects"
     url = "/projects/"
     title = "Projects"
-  [[menu.footer]]
-    weight = 1
-    identifier = "imprint"
-    name = "Legal Notice (Impressum)"
-    url = "/imprint/"
 
 [params]
   # site default theme ["auto", "light", "dark"]
@@ -83,6 +78,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   description = "Developer | AI Enthusiast | Businessinformatics @ TUM"
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
+  customCSS = ["css/_override.css"]
 
 # Author config
   [params.author]
@@ -113,7 +109,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.footer]
     enable = true
     # LoveIt NEW | 0.2.0 Custom content (HTML format is supported)
-    custom = ''
+    custom = '<a href="/imprint/">Impressum</a>'
     # LoveIt NEW | 0.2.0 whether to show Hugo and theme info
     hugo = false
     # LoveIt NEW | 0.2.0 whether to show copyright info
@@ -125,7 +121,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # ICP info only in China (HTML format is supported)
     icp = ""
     # license info (HTML format is supported)
-    # license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+    # license = ''
 
   # LoveIt NEW | 0.2.0 Section (all posts) page config
   [params.section]
@@ -322,7 +318,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # whether to enable the table of the contents
       enable = true
       # LoveIt NEW | 0.2.9 whether to keep the static table of the contents in front of the post
-      keepStatic = true
+      keepStatic = false
       # whether to make the table of the contents in the sidebar automatically collapsed
       auto = true
     # LoveIt CHANGED | 0.2.0 KaTeX mathematical formulas
